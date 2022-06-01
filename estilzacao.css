@@ -1,0 +1,40 @@
+     
+body {
+    background-color: rgb(212, 196, 177);
+  }
+  
+  h1 {
+    color: rgb(252, 251, 250);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    color:#351f0b;
+    font-size: 15px;
+  }
+
+    
+  h1 {
+     font-family: verdana;
+     color:#FFB0C5;
+     text-align: center; 
+  }
+  
+  h2 {
+    font-family: verdana;
+    color:#351f0b;
+    text-align: center; 
+ }
+ 
+   
+ h3 {
+  font-size: 25px;
+  color:#351f0b;   
+}
+
+h5 {
+  font-size: 15x;
+  color:#351f0b;  
+  text-align: center; 
+}
