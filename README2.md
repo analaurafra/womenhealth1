@@ -29,7 +29,7 @@ Desenvolvimento de Site focado na busca por uma rotina saudável, boas práticas
 
 Neste projeto foi utilizado o Bootstrap e alguns elementos do HTML + Css; 
 Também utilizei formulários;
-Carrossis de imagens;
+Carrosséis de imagens;
 Barra de Navegação Fixa;
 Rodapé junto à barra;
 Para simular o servidor foram utilizadas janelas assistentes;
