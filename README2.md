@@ -14,7 +14,7 @@ Projeto de conclusão do curso BRQ - Entry Point🍊
 [Brq](https://www.brq.com/)
 
 ### Professor/Instr:
-Cid 📚
+Cid Andrade📚
 
 ### Objetivo: 
 Desenvolvimento de Site focado na busca por uma rotina saudável, boas práticas,planos alimentáres e etc 🍊
