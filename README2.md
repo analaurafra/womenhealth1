@@ -18,6 +18,7 @@ Cid Andrade📚
 
 ### Objetivo: 
 Desenvolvimento de Site focado na busca por uma rotina saudável, boas práticas,planos alimentáres e etc 🍊
+Curioso(a),olha só que massa que ficou : [Women&Health]([https://www.brq.com/](https://www.youtube.com/watch?v=CANK9bvIKEo&ab_channel=AnaLauraFrancisco))
 
 -------------------------------------------------------------------------------------
 ### Ambiente de Desenvolvimento:  📍
