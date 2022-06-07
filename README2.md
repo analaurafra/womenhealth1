@@ -1,5 +1,5 @@
 ### Women & Health 🕹️
-Projeto de conclusão do curso BRQ - Entry Point🍊
+Projeto de conclusão do curso BRQ - Entry Point - Frontend🍊
 
 -------------------------------------------------------------------------------------
 ## Sobre o Projeto: 📍
@@ -16,9 +16,10 @@ Projeto de conclusão do curso BRQ - Entry Point🍊
 ### Professor/Instr:
 Cid Andrade📚
 
-### Objetivo: 
+#### Objetivo: 
 Desenvolvimento de Site focado na busca por uma rotina saudável, boas práticas,planos alimentáres e etc 🍊
-Curioso(a),olha só que massa que ficou : [Women&Health](https://www.brq.co](https://youtu.be/CANK9bvIKEo](https://youtu.be/CANK9bvIKEo)/)
+
+Curioso(a),olha só que massa, versão Youtube :[Women&Health](https://youtu.be/CANK9bvIKEo/)
 -------------------------------------------------------------------------------------
 ### Ambiente de Desenvolvimento:  📍
 
